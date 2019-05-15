@@ -1,7 +1,24 @@
-body  {
+body {
  font-family: 'Oswald', sans-serif;
 }
 
-#trabajos {
-  background-color: #660066;
+@media (min-width: 576px) {
+  header img{
+    background-repeat: no-repeat;
+  }
+}
+
+footer {
+  height: 80px;
+}
+
+footer h2 {
+  text-align: left;
+  margin-left: 125px;
+}
+
+footer ul li {
+  display: inline-block;
+  vertical-align: middle;
+
 }
