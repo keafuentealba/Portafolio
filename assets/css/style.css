@@ -3,9 +3,19 @@ body {
 }
 
 @media (min-width: 576px) {
-  header img{
+  header {
     background-repeat: no-repeat;
   }
+}
+
+#about {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  text-align: justify;
+}
+
+#about p {
+  font-size: 400;
 }
 
 footer {
