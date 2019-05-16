@@ -18,6 +18,11 @@ body {
   font-size: 400;
 }
 
+#descripcion h3 {
+  font-size: 69px;
+
+}
+
 footer {
   height: 80px;
 }
